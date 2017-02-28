@@ -23,7 +23,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 ➖🔹➖🔹➖🔹➖🔹➖🔹
 ورأهأَ خلي  
 
-git clone https://github.com/moody2020/TEAMBOSS.git
+git clone https://github.com/hmza97hmza97/TEAMBOSS
 ➖🔹➖🔹➖🔹➖🔹➖🔹
 ورهأ خلي    
 
